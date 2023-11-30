@@ -1,0 +1,11 @@
+server:
+  port: 9292
+
+spring:
+  data:
+    mongodb:
+      database: product_db
+      host: localhost
+      port: 27017
+
+
